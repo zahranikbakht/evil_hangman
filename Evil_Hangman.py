@@ -37,7 +37,7 @@ while len(word)< 4 or len(word)>9:
 	word = words[number].rstrip()
 for i in range (len(words)):
 	words[i] = words[i].rstrip()
-for	i in words:
+for i in words:
 	if len(i) == len(word):
 		list_of_words.append(i)
 for i in range (len(word)):
