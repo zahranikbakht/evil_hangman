@@ -1,3 +1,4 @@
+# Code by Zahra Nikbakht
 # Evil Hangman - the classic hangman with an evil touch where the chosen word changes to make the player lose more turns
 # simple GUI
 import sys
