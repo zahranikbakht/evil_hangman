@@ -1,3 +1,5 @@
+# Code by Zahra
+# simple GUI for the evil hangman game
 import stddraw
 stddraw.setFontSize(40)
 def draw_hangman(guesses):
